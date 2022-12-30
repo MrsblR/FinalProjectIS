@@ -1,0 +1,268 @@
+Id,Fuente,Petición (Tiempo),Método,URL,Código,Razón,RTT,Respuesta (Tamaño del cuerpo),Alerta mayor,Nota,Etiquetas
+1,Proxy,Thu Dec 29 17:33:19 PET 2022,GET,http://localhost:45100/login,200,OK,83,898,Medio,false,"Form,Password"
+5,Proxy,Thu Dec 29 17:33:19 PET 2022,GET,http://localhost:45100/stylesheets/style_log.css,200,OK,394,2191,Bajo,false,"Password,Comment"
+8,Proxy,Thu Dec 29 17:33:20 PET 2022,POST,https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard,200,OK,4257,17,,false,JSON
+10,Proxy,Thu Dec 29 17:33:20 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSFwlkhepSAJl0gRIFDak14HESBQ3bxZ-m?alt=proto,200,OK,12059,40,Bajo,false,
+14,Proxy,Thu Dec 29 17:33:21 PET 2022,GET,https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap,200,OK,45963,1461,Medio,false,Comment
+16,Proxy,Thu Dec 29 17:34:08 PET 2022,GET,https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWkkA.woff2,200,OK,10024,17072,Medio,false,Comment
+21,Proxy,Thu Dec 29 17:34:08 PET 2022,GET,https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUkp8D.woff2,200,OK,13645,18024,Medio,false,
+22,Proxy,Thu Dec 29 17:34:19 PET 2022,POST,https://update.googleapis.com/service/update2/json?cup2key=12:bNvTtzPEVyQ5bm4leEM99pobgKwtyg0nDSmXbhBz0IQ&cup2hreq=2e014707b9be591451ec0a62791ff9f52133d65071da63814909d94b116d9332,502,Bad Gateway,11093,457,,false,
+26,Proxy,Thu Dec 29 17:34:30 PET 2022,POST,http://update.googleapis.com/service/update2/json?cup2key=12:77Qs4--y1PrzECO-AGrLZnyTthbPtFg5r0L86t_o_i0&cup2hreq=d377bc1485e30c6fb5328b0c6bdd24969ff614364c34c6f2b949f98126b7428b,502,Bad Gateway,0,437,,false,
+30,Proxy,Thu Dec 29 17:34:21 PET 2022,POST,https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw,200,OK,11563,1131,Bajo,false,
+32,Proxy,Thu Dec 29 17:34:22 PET 2022,POST,https://clientservices.googleapis.com/uma/v2,200,OK,27186,2,Bajo,false,
+35,Proxy,Thu Dec 29 17:34:49 PET 2022,GET,"https://clients1.google.com/tools/pso/ping?as=chrome&brand=SQJL&pid=&hl=en&rep=2&rlz=C1:1C1SQJL_enPE892PE892,C2:1C2SQJL_enPE892,C7:1C7SQJL_enPE892",200,OK,4527,194,Medio,false,
+39,Proxy,Thu Dec 29 17:34:33 PET 2022,GET,https://optimizationguide-pa.googleapis.com/downloads?name=1671026527&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS,200,OK,24427,5089,Medio,false,
+40,Proxy,Thu Dec 29 17:34:33 PET 2022,GET,https://optimizationguide-pa.googleapis.com/downloads?name=1670017945099&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION,200,OK,25698,265060,Medio,false,Comment
+41,Proxy,Thu Dec 29 17:34:59 PET 2022,GET,https://optimizationguide-pa.googleapis.com/downloads?name=1671026548&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS,200,OK,240,5083,Medio,false,
+42,Proxy,Thu Dec 29 17:34:58 PET 2022,GET,https://optimizationguide-pa.googleapis.com/downloads?name=2202180000&target=OPTIMIZATION_TARGET_SEGMENTATION_CHROME_LOW_USER_ENGAGEMENT,200,OK,4334,9419,Medio,false,
+43,Proxy,Thu Dec 29 17:36:34 PET 2022,GET,http://localhost:45100/register,200,OK,904,1869,Medio,false,"Form,Password"
+44,Proxy,Thu Dec 29 17:36:35 PET 2022,GET,http://localhost:45100/stylesheets/style_log.css,304,Not Modified,7,0,,false,
+45,Proxy,Thu Dec 29 17:36:36 PET 2022,POST,https://beacons.gcp.gvt2.com/domainreliability/upload,200,OK,726,0,Bajo,false,
+47,Proxy,Thu Dec 29 17:36:36 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSSAm1wZXd3w7lTRIFDV3UmZMSBQ3jXd_UEgUNUrJnlhIFDezqakQSBQ1iTK69EgUN2dV3yRIFDdxrvNcSBQ2pNeBxEgUN28Wfpg==?alt=proto,200,OK,783,112,,false,
+49,Proxy,Thu Dec 29 17:41:37 PET 2022,POST,https://beacons.gcp.gvt2.com/domainreliability/upload,200,OK,455,0,Bajo,false,
+50,Proxy,Thu Dec 29 17:48:58 PET 2022,POST,http://localhost:45100/registercheck,302,Found,960,70,,false,
+51,Proxy,Thu Dec 29 17:48:59 PET 2022,GET,http://localhost:45100/login?msg=ok,200,OK,54,898,Medio,false,"Form,Password"
+52,Proxy,Thu Dec 29 17:48:59 PET 2022,GET,http://localhost:45100/stylesheets/style_log.css,304,Not Modified,12,0,,false,
+53,Proxy,Thu Dec 29 17:48:59 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSFwlkhepSAJl0gRIFDak14HESBQ3bxZ-m?alt=proto,200,OK,537,40,Bajo,false,
+54,Proxy,Thu Dec 29 17:49:05 PET 2022,POST,http://localhost:45100/loginchecked,302,Found,240,56,Bajo,false,SetCookie
+55,Proxy,Thu Dec 29 17:49:05 PET 2022,GET,http://localhost:45100/panel,200,OK,188,3122,Medio,false,"Script,Comment"
+56,Proxy,Thu Dec 29 17:49:05 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,200,OK,14,1297,Bajo,false,
+57,Proxy,Thu Dec 29 17:49:05 PET 2022,GET,http://localhost:45100/stylesheets/style-principal.css,200,OK,15,2041,,false,
+61,Proxy,Thu Dec 29 17:49:06 PET 2022,GET,https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,200,OK,222,31000,Medio,false,Comment
+66,Proxy,Thu Dec 29 17:49:06 PET 2022,GET,"https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",200,OK,472,26616,Medio,false,Comment
+67,Proxy,Thu Dec 29 17:49:06 PET 2022,GET,https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0,200,OK,206,77160,Medio,false,
+69,Proxy,Thu Dec 29 17:49:06 PET 2022,GET,https://fonts.gstatic.com/s/mulish/v12/1Ptvg83HX_SGhgqk3wot.woff2,200,OK,783,27428,Medio,false,Comment
+72,Proxy,Thu Dec 29 17:49:16 PET 2022,GET,http://localhost:45100/crearcurso,200,OK,235,2290,Medio,false,"Form,Comment"
+73,Proxy,Thu Dec 29 17:49:16 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,13,0,,false,
+74,Proxy,Thu Dec 29 17:49:16 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,200,OK,21,1068,Bajo,false,
+75,Proxy,Thu Dec 29 17:49:16 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,200,OK,33,2475,Bajo,false,
+76,Proxy,Thu Dec 29 17:49:16 PET 2022,GET,https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,200,OK,111,31000,Medio,false,Comment
+77,Proxy,Thu Dec 29 17:49:16 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSLAnzwK431sSzJBIFDadjbpgSBQ1d1JmTEgUNvctyNBIFDeWPoDkSBQ0kYNx5?alt=proto,200,OK,486,64,Bajo,false,
+78,Proxy,Thu Dec 29 18:00:08 PET 2022,POST,http://localhost:45100/checkcrearcurso,302,Found,39,78,,false,
+79,Proxy,Thu Dec 29 18:00:08 PET 2022,GET,http://localhost:45100/vercursos?msg=ok,200,OK,587,2841,Medio,false,"Script,Comment"
+80,Proxy,Thu Dec 29 18:00:09 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,7,0,,false,
+81,Proxy,Thu Dec 29 18:00:09 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,200,OK,19,296,Bajo,false,
+82,Proxy,Thu Dec 29 18:00:09 PET 2022,GET,https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,200,OK,248,31000,Medio,false,Comment
+83,Proxy,Thu Dec 29 18:00:10 PET 2022,GET,https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css,200,OK,697,144877,Medio,false,Comment
+88,Proxy,Thu Dec 29 18:00:10 PET 2022,GET,https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js,200,OK,483,48944,Medio,false,Comment
+90,Proxy,Thu Dec 29 18:00:10 PET 2022,GET,https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js,200,OK,2591,19188,Medio,false,Comment
+97,Proxy,Thu Dec 29 18:00:10 PET 2022,GET,https://code.jquery.com/jquery-3.2.1.slim.min.js,200,OK,3798,69597,Medio,false,"Form,Script,Comment"
+99,Proxy,Thu Dec 29 18:00:14 PET 2022,GET,http://localhost:45100/tabla/43,200,OK,191,2435,,false,
+101,Proxy,Thu Dec 29 18:00:14 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,5,0,,false,
+102,Proxy,Thu Dec 29 18:00:14 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,13,0,,false,
+103,Proxy,Thu Dec 29 18:00:14 PET 2022,GET,https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js,200,OK,225,19188,Medio,false,Comment
+104,Proxy,Thu Dec 29 18:00:14 PET 2022,GET,https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js,200,OK,231,48944,Medio,false,Comment
+105,Proxy,Thu Dec 29 18:00:14 PET 2022,GET,https://code.jquery.com/jquery-3.2.1.slim.min.js,200,OK,1431,69597,Medio,false,"Form,Script,Comment"
+106,Proxy,Thu Dec 29 18:00:16 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSEAkWwIpXM-gjYBIFDZuykcE=?alt=proto,200,OK,1792,16,Bajo,false,
+107,Proxy,Thu Dec 29 18:00:51 PET 2022,POST,http://localhost:45100/agregaralumno/43,302,Found,64,62,,false,
+109,Proxy,Thu Dec 29 18:00:51 PET 2022,GET,http://localhost:45100/tabla/43,200,OK,255,2756,Medio,false,"Form,Script,Comment"
+110,Proxy,Thu Dec 29 18:00:51 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,7,0,,false,
+111,Proxy,Thu Dec 29 18:00:51 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,9,0,,false,
+112,Proxy,Thu Dec 29 18:00:52 PET 2022,GET,https://picsum.photos/300,302,Found,391,0,,false,
+119,Proxy,Thu Dec 29 18:00:58 PET 2022,POST,http://localhost:45100/agregaralumno/43,302,Found,45,62,,false,
+120,Proxy,Thu Dec 29 18:00:58 PET 2022,GET,http://localhost:45100/tabla/43,200,OK,271,3082,Medio,false,"Form,Script,Comment"
+121,Proxy,Thu Dec 29 18:00:59 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,9,0,,false,
+122,Proxy,Thu Dec 29 18:00:59 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,10,0,,false,
+123,Proxy,Thu Dec 29 18:00:59 PET 2022,GET,https://picsum.photos/300,302,Found,238,0,,false,
+127,Proxy,Thu Dec 29 18:01:05 PET 2022,GET,http://localhost:45100/deletealumnos/43/20204684,302,Found,26,62,,false,
+130,Proxy,Thu Dec 29 18:01:05 PET 2022,GET,http://localhost:45100/tabla/43,200,OK,173,2756,,false,
+131,Proxy,Thu Dec 29 18:01:05 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,13,0,,false,
+132,Proxy,Thu Dec 29 18:01:05 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,28,0,,false,
+133,Proxy,Thu Dec 29 18:01:05 PET 2022,GET,https://picsum.photos/300,302,Found,239,0,,false,
+137,Proxy,Thu Dec 29 18:01:15 PET 2022,GET,http://localhost:45100/vercalendario/43,200,OK,194,2852,Medio,false,"Script,Comment"
+139,Proxy,Thu Dec 29 18:01:15 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,7,0,,false,
+140,Proxy,Thu Dec 29 18:01:15 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,16,0,,false,
+141,Proxy,Thu Dec 29 18:01:23 PET 2022,GET,http://localhost:45100/verhorario/43/Geometria,200,OK,267,2835,Medio,false,"Form,Comment"
+144,Proxy,Thu Dec 29 18:01:24 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,26,0,,false,
+145,Proxy,Thu Dec 29 18:01:24 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,47,0,,false,
+146,Proxy,Thu Dec 29 18:01:24 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,20,0,,false,
+147,Proxy,Thu Dec 29 18:01:29 PET 2022,POST,http://localhost:45100/crearhorariochecked/43/Geometria,302,Found,26,92,,false,
+150,Proxy,Thu Dec 29 18:01:29 PET 2022,GET,http://localhost:45100/verhorario/43/Geometria,200,OK,194,3048,,false,
+151,Proxy,Thu Dec 29 18:01:29 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,11,0,,false,
+152,Proxy,Thu Dec 29 18:01:29 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,13,0,,false,
+153,Proxy,Thu Dec 29 18:01:29 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,17,0,,false,
+154,Proxy,Thu Dec 29 18:01:32 PET 2022,GET,http://localhost:45100/deleteschedule/43/41/Geometria,302,Found,16,92,,false,
+158,Proxy,Thu Dec 29 18:01:16 PET 2022,GET,https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js,200,OK,16330,905956,Medio,false,"Script,Comment"
+161,Proxy,Thu Dec 29 18:01:32 PET 2022,GET,http://localhost:45100/verhorario/43/Geometria,200,OK,177,2835,Medio,false,"Form,Comment"
+162,Proxy,Thu Dec 29 18:01:32 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,3,0,,false,
+163,Proxy,Thu Dec 29 18:01:32 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,8,0,,false,
+164,Proxy,Thu Dec 29 18:01:32 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,11,0,,false,
+165,Proxy,Thu Dec 29 18:01:35 PET 2022,POST,http://localhost:45100/crearhorariochecked/43/Geometria,302,Found,20,92,,false,
+166,Proxy,Thu Dec 29 18:01:35 PET 2022,GET,http://localhost:45100/verhorario/43/Geometria,200,OK,140,3045,,false,
+167,Proxy,Thu Dec 29 18:01:35 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,8,0,,false,
+168,Proxy,Thu Dec 29 18:01:35 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,9,0,,false,
+169,Proxy,Thu Dec 29 18:01:35 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,24,0,,false,
+170,Proxy,Thu Dec 29 18:01:15 PET 2022,GET,https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.4/jspdf.debug.js,504,Gateway Timeout,29196,246,Bajo,false,
+173,Proxy,Thu Dec 29 18:01:44 PET 2022,GET,http://localhost:45100/crearcurso,304,Not Modified,103,0,,false,
+174,Proxy,Thu Dec 29 18:01:45 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,13,0,,false,
+175,Proxy,Thu Dec 29 18:01:45 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,15,0,,false,
+176,Proxy,Thu Dec 29 18:01:45 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,18,0,,false,
+177,Proxy,Thu Dec 29 18:01:45 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSLAnzwK431sSzJBIFDadjbpgSBQ1d1JmTEgUNvctyNBIFDeWPoDkSBQ0kYNx5?alt=proto,200,OK,690,64,Bajo,false,
+178,Proxy,Thu Dec 29 18:01:46 PET 2022,GET,http://localhost:45100/vercursos,200,OK,124,2841,Medio,false,"Script,Comment"
+179,Proxy,Thu Dec 29 18:01:46 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,9,0,,false,
+180,Proxy,Thu Dec 29 18:01:46 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,14,0,,false,
+181,Proxy,Thu Dec 29 18:01:50 PET 2022,GET,http://localhost:45100/verhorario/43/Geometria,304,Not Modified,227,0,,false,
+182,Proxy,Thu Dec 29 18:01:50 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,7,0,,false,
+183,Proxy,Thu Dec 29 18:01:50 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,10,0,,false,
+184,Proxy,Thu Dec 29 18:01:50 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,5,0,,false,
+185,Proxy,Thu Dec 29 18:01:53 PET 2022,GET,http://localhost:45100/modify/43,200,OK,100,2387,Medio,false,"Form,Comment"
+187,Proxy,Thu Dec 29 18:01:53 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,7,0,,false,
+188,Proxy,Thu Dec 29 18:01:53 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,6,0,,false,
+189,Proxy,Thu Dec 29 18:01:53 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,9,0,,false,
+190,Proxy,Thu Dec 29 18:01:54 PET 2022,GET,https://fonts.gstatic.com/s/mulish/v12/1Pttg83HX_SGhgqk2jovaqQ.woff2,200,OK,399,29156,Medio,false,Comment
+191,Proxy,Thu Dec 29 18:01:54 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSJQm7FVGunlo_3BIFDV3UmZMSBQ29y3I0EgUN5Y-gORIFDSRg3Hk=?alt=proto,200,OK,2113,52,Bajo,false,
+192,Proxy,Thu Dec 29 18:01:57 PET 2022,POST,http://localhost:45100/checkupdatecurso/43,302,Found,20,64,,false,
+194,Proxy,Thu Dec 29 18:01:57 PET 2022,GET,http://localhost:45100/vercursos,200,OK,91,2847,,false,
+195,Proxy,Thu Dec 29 18:01:57 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,6,0,,false,
+196,Proxy,Thu Dec 29 18:01:57 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,23,0,,false,
+197,Proxy,Thu Dec 29 18:02:03 PET 2022,GET,http://localhost:45100/crearcurso,304,Not Modified,74,0,,false,
+198,Proxy,Thu Dec 29 18:02:03 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,5,0,,false,
+199,Proxy,Thu Dec 29 18:02:03 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,6,0,,false,
+200,Proxy,Thu Dec 29 18:02:03 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,6,0,,false,
+201,Proxy,Thu Dec 29 18:02:04 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSLAnzwK431sSzJBIFDadjbpgSBQ1d1JmTEgUNvctyNBIFDeWPoDkSBQ0kYNx5?alt=proto,200,OK,676,64,Bajo,false,
+202,Proxy,Thu Dec 29 18:02:05 PET 2022,GET,http://localhost:45100/login,304,Not Modified,312,0,,false,
+203,Proxy,Thu Dec 29 18:02:06 PET 2022,GET,http://localhost:45100/stylesheets/style_log.css,304,Not Modified,11,0,,false,
+204,Proxy,Thu Dec 29 18:02:06 PET 2022,GET,https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap,200,OK,417,1461,Medio,false,Comment
+205,Proxy,Thu Dec 29 18:02:06 PET 2022,GET,https://fonts.gstatic.com/s/abeezee/v22/esDR31xSG-6AGleN2tWkkA.woff2,200,OK,119,17072,,false,
+206,Proxy,Thu Dec 29 18:02:06 PET 2022,GET,https://fonts.gstatic.com/s/abeezee/v22/esDT31xSG-6AGleN2tCUkp8D.woff2,200,OK,120,18024,Medio,false,
+207,Proxy,Thu Dec 29 18:02:06 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSFwlkhepSAJl0gRIFDak14HESBQ3bxZ-m?alt=proto,200,OK,848,40,Bajo,false,
+208,Proxy,Thu Dec 29 18:03:29 PET 2022,GET,http://localhost:45100/register,304,Not Modified,77,0,,false,
+209,Proxy,Thu Dec 29 18:03:30 PET 2022,GET,http://localhost:45100/stylesheets/style_log.css,304,Not Modified,16,0,,false,
+210,Proxy,Thu Dec 29 18:03:30 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSSAm1wZXd3w7lTRIFDV3UmZMSBQ3jXd_UEgUNUrJnlhIFDezqakQSBQ1iTK69EgUN2dV3yRIFDdxrvNcSBQ2pNeBxEgUN28Wfpg==?alt=proto,200,OK,523,112,Bajo,false,
+211,Proxy,Thu Dec 29 18:04:21 PET 2022,POST,https://clientservices.googleapis.com/uma/v2,200,OK,2711,2,Bajo,false,
+212,Proxy,Thu Dec 29 18:04:35 PET 2022,POST,http://localhost:45100/registercheck,302,Found,253,70,,false,
+213,Proxy,Thu Dec 29 18:04:36 PET 2022,GET,http://localhost:45100/login?msg=ok,304,Not Modified,40,0,,false,
+214,Proxy,Thu Dec 29 18:04:36 PET 2022,GET,http://localhost:45100/stylesheets/style_log.css,304,Not Modified,9,0,,false,
+215,Proxy,Thu Dec 29 18:04:36 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSFwlkhepSAJl0gRIFDak14HESBQ3bxZ-m?alt=proto,200,OK,7519,40,Bajo,false,
+216,Proxy,Thu Dec 29 18:04:48 PET 2022,POST,http://localhost:45100/loginchecked,302,Found,253,56,Bajo,false,SetCookie
+217,Proxy,Thu Dec 29 18:04:48 PET 2022,GET,http://localhost:45100/panel,304,Not Modified,81,0,,false,
+218,Proxy,Thu Dec 29 18:04:48 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,15,0,,false,
+219,Proxy,Thu Dec 29 18:04:48 PET 2022,GET,http://localhost:45100/stylesheets/style-principal.css,304,Not Modified,18,0,,false,
+220,Proxy,Thu Dec 29 18:04:48 PET 2022,GET,"https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",200,OK,1842,26616,Medio,false,Comment
+221,Proxy,Thu Dec 29 18:04:51 PET 2022,GET,https://fonts.gstatic.com/s/mulish/v12/1Ptvg83HX_SGhgqk3wot.woff2,200,OK,122,27428,Medio,false,Comment
+222,Proxy,Thu Dec 29 18:04:49 PET 2022,GET,https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,200,OK,3676,31000,Medio,false,Comment
+223,Proxy,Thu Dec 29 18:04:53 PET 2022,GET,https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0,200,OK,197,77160,Medio,false,
+224,Proxy,Thu Dec 29 18:05:02 PET 2022,GET,http://localhost:45100/panel,304,Not Modified,88,0,,false,
+225,Proxy,Thu Dec 29 18:05:02 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,10,0,,false,
+226,Proxy,Thu Dec 29 18:05:02 PET 2022,GET,http://localhost:45100/stylesheets/style-principal.css,304,Not Modified,9,0,,false,
+227,Proxy,Thu Dec 29 18:05:02 PET 2022,GET,https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,200,OK,644,31000,Medio,false,Comment
+228,Proxy,Thu Dec 29 18:05:03 PET 2022,GET,http://localhost:45100/crearcurso,304,Not Modified,95,0,,false,
+230,Proxy,Thu Dec 29 18:05:03 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,9,0,,false,
+229,Proxy,Thu Dec 29 18:05:03 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,7,0,,false,
+231,Proxy,Thu Dec 29 18:05:03 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,12,0,,false,
+232,Proxy,Thu Dec 29 18:05:04 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSLAnzwK431sSzJBIFDadjbpgSBQ1d1JmTEgUNvctyNBIFDeWPoDkSBQ0kYNx5?alt=proto,200,OK,7515,64,Bajo,false,
+233,Proxy,Thu Dec 29 18:05:21 PET 2022,POST,http://localhost:45100/checkcrearcurso,302,Found,46,78,,false,
+234,Proxy,Thu Dec 29 18:05:21 PET 2022,GET,http://localhost:45100/vercursos?msg=ok,200,OK,115,2869,,false,
+235,Proxy,Thu Dec 29 18:05:21 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,6,0,,false,
+236,Proxy,Thu Dec 29 18:05:21 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,12,0,,false,
+237,Proxy,Thu Dec 29 18:05:21 PET 2022,GET,https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css,200,OK,1129,144877,Medio,false,Comment
+238,Proxy,Thu Dec 29 18:05:21 PET 2022,GET,https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js,200,OK,1066,48944,,false,
+239,Proxy,Thu Dec 29 18:05:21 PET 2022,GET,https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js,200,OK,1123,19188,Medio,false,Comment
+240,Proxy,Thu Dec 29 18:05:21 PET 2022,GET,https://code.jquery.com/jquery-3.2.1.slim.min.js,200,OK,1614,69597,Medio,false,"Form,Script,Comment"
+241,Proxy,Thu Dec 29 18:05:28 PET 2022,GET,http://localhost:45100/crearcurso,304,Not Modified,129,0,,false,
+242,Proxy,Thu Dec 29 18:05:28 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,4,0,,false,
+243,Proxy,Thu Dec 29 18:05:28 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,8,0,,false,
+244,Proxy,Thu Dec 29 18:05:28 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,6,0,,false,
+245,Proxy,Thu Dec 29 18:05:28 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSLAnzwK431sSzJBIFDadjbpgSBQ1d1JmTEgUNvctyNBIFDeWPoDkSBQ0kYNx5?alt=proto,200,OK,488,64,Bajo,false,
+246,Proxy,Thu Dec 29 18:05:56 PET 2022,POST,http://localhost:45100/checkcrearcurso,302,Found,23,78,,false,
+247,Proxy,Thu Dec 29 18:05:56 PET 2022,GET,http://localhost:45100/vercursos?msg=ok,200,OK,109,3677,,false,
+248,Proxy,Thu Dec 29 18:05:56 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,8,0,,false,
+249,Proxy,Thu Dec 29 18:05:56 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,11,0,,false,
+250,Proxy,Thu Dec 29 18:05:56 PET 2022,GET,https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css,200,OK,3939,144877,Medio,false,Comment
+251,Proxy,Thu Dec 29 18:06:09 PET 2022,GET,http://localhost:45100/tabla/44,200,OK,138,2435,Medio,false,"Form,Script,Comment"
+252,Proxy,Thu Dec 29 18:06:09 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,3,0,,false,
+253,Proxy,Thu Dec 29 18:06:09 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,13,0,,false,
+254,Proxy,Thu Dec 29 18:06:10 PET 2022,GET,https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css,200,OK,1386,144877,Medio,false,Comment
+255,Proxy,Thu Dec 29 18:06:12 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSEAkWwIpXM-gjYBIFDZuykcE=?alt=proto,200,OK,520,16,Bajo,false,
+256,Proxy,Thu Dec 29 18:06:14 PET 2022,POST,http://localhost:45100/agregaralumno/44,302,Found,24,62,,false,
+257,Proxy,Thu Dec 29 18:06:14 PET 2022,GET,http://localhost:45100/tabla/44,200,OK,102,2756,Medio,false,"Form,Script,Comment"
+258,Proxy,Thu Dec 29 18:06:14 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,5,0,,false,
+259,Proxy,Thu Dec 29 18:06:14 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,8,0,,false,
+260,Proxy,Thu Dec 29 18:06:14 PET 2022,GET,https://picsum.photos/300,302,Found,384,0,,false,
+264,Proxy,Thu Dec 29 18:06:16 PET 2022,POST,http://localhost:45100/agregaralumno/44,302,Found,29,62,,false,
+265,Proxy,Thu Dec 29 18:06:16 PET 2022,GET,http://localhost:45100/tabla/44,200,OK,97,3082,,false,
+266,Proxy,Thu Dec 29 18:06:16 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,7,0,,false,
+267,Proxy,Thu Dec 29 18:06:16 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,8,0,,false,
+268,Proxy,Thu Dec 29 18:06:17 PET 2022,GET,https://picsum.photos/300,302,Found,258,0,,false,
+272,Proxy,Thu Dec 29 18:06:29 PET 2022,GET,http://localhost:45100/vercursos,200,OK,145,3677,Medio,false,"Script,Comment"
+273,Proxy,Thu Dec 29 18:06:29 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,4,0,,false,
+274,Proxy,Thu Dec 29 18:06:29 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,8,0,,false,
+275,Proxy,Thu Dec 29 18:06:48 PET 2022,GET,http://localhost:45100/modify/44,200,OK,134,2429,Medio,false,"Form,Comment"
+276,Proxy,Thu Dec 29 18:06:48 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,11,0,,false,
+277,Proxy,Thu Dec 29 18:06:48 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,14,0,,false,
+278,Proxy,Thu Dec 29 18:06:48 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,7,0,,false,
+279,Proxy,Thu Dec 29 18:06:48 PET 2022,GET,https://fonts.gstatic.com/s/mulish/v12/1Pttg83HX_SGhgqk2jovaqQ.woff2,200,OK,424,29156,Medio,false,Comment
+280,Proxy,Thu Dec 29 18:06:48 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSJQm7FVGunlo_3BIFDV3UmZMSBQ29y3I0EgUN5Y-gORIFDSRg3Hk=?alt=proto,200,OK,1506,52,Bajo,false,
+281,Proxy,Thu Dec 29 18:07:32 PET 2022,POST,http://localhost:45100/checkupdatecurso/44,302,Found,17,64,,false,
+282,Proxy,Thu Dec 29 18:07:32 PET 2022,GET,http://localhost:45100/vercursos,200,OK,138,3697,Medio,false,"Script,Comment"
+283,Proxy,Thu Dec 29 18:07:32 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,8,0,,false,
+284,Proxy,Thu Dec 29 18:07:32 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,11,0,,false,
+285,Proxy,Thu Dec 29 18:07:46 PET 2022,GET,http://localhost:45100/verhorario/44/Algebra%20Lineal%20Numerica%20Veranito,200,OK,216,2881,Medio,false,"Form,Comment"
+287,Proxy,Thu Dec 29 18:07:46 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,9,0,,false,
+288,Proxy,Thu Dec 29 18:07:46 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,12,0,,false,
+289,Proxy,Thu Dec 29 18:07:46 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,7,0,,false,
+290,Proxy,Thu Dec 29 18:07:55 PET 2022,POST,http://localhost:45100/crearhorariochecked/44/Algebra%20Lineal%20Numerica%20Veranito,302,Found,14,150,,false,
+292,Proxy,Thu Dec 29 18:07:55 PET 2022,GET,http://localhost:45100/verhorario/44/Algebra%20Lineal%20Numerica%20Veranito,200,OK,181,3113,,false,
+293,Proxy,Thu Dec 29 18:07:55 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,5,0,,false,
+294,Proxy,Thu Dec 29 18:07:55 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,10,0,,false,
+295,Proxy,Thu Dec 29 18:07:55 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,6,0,,false,
+296,Proxy,Thu Dec 29 18:08:15 PET 2022,POST,http://localhost:45100/crearhorariochecked/44/Algebra%20Lineal%20Numerica%20Veranito,302,Found,30,150,,false,
+297,Proxy,Thu Dec 29 18:08:15 PET 2022,GET,http://localhost:45100/verhorario/44/Algebra%20Lineal%20Numerica%20Veranito,200,OK,138,3349,,false,
+298,Proxy,Thu Dec 29 18:08:15 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,9,0,,false,
+299,Proxy,Thu Dec 29 18:08:15 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,11,0,,false,
+300,Proxy,Thu Dec 29 18:08:15 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,14,0,,false,
+301,Proxy,Thu Dec 29 18:08:38 PET 2022,GET,http://localhost:45100/deleteschedule/44/43/Algebra%20Lineal%20Numerica%20Veranito,302,Found,21,150,,false,
+304,Proxy,Thu Dec 29 18:08:38 PET 2022,GET,http://localhost:45100/verhorario/44/Algebra%20Lineal%20Numerica%20Veranito,200,OK,211,3117,Medio,false,"Form,Comment"
+305,Proxy,Thu Dec 29 18:08:38 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,11,0,,false,
+306,Proxy,Thu Dec 29 18:08:38 PET 2022,GET,http://localhost:45100/stylesheets/style-bar.css,304,Not Modified,13,0,,false,
+307,Proxy,Thu Dec 29 18:08:38 PET 2022,GET,http://localhost:45100/stylesheets/style-create.css,304,Not Modified,17,0,,false,
+308,Proxy,Thu Dec 29 18:09:08 PET 2022,GET,http://localhost:45100/vercursos,304,Not Modified,490,0,,false,
+309,Proxy,Thu Dec 29 18:09:09 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,9,0,,false,
+310,Proxy,Thu Dec 29 18:09:09 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,11,0,,false,
+311,Proxy,Thu Dec 29 18:09:12 PET 2022,GET,http://localhost:45100/vercalendario/44,200,OK,110,2852,Medio,false,"Script,Comment"
+312,Proxy,Thu Dec 29 18:09:12 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,9,0,,false,
+313,Proxy,Thu Dec 29 18:09:12 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,11,0,,false,
+314,Proxy,Thu Dec 29 18:09:12 PET 2022,GET,https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js,200,OK,8847,905956,Medio,false,"Script,Comment"
+315,Proxy,Thu Dec 29 18:09:22 PET 2022,GET,http://localhost:45100/vercalendario/44,304,Not Modified,109,0,,false,
+316,Proxy,Thu Dec 29 18:09:23 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,5,0,,false,
+317,Proxy,Thu Dec 29 18:09:23 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,12,0,,false,
+318,Proxy,Thu Dec 29 18:09:23 PET 2022,GET,https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.4/jspdf.debug.js,200,OK,16858,602210,Medio,false,Comment
+319,Proxy,Thu Dec 29 18:09:23 PET 2022,GET,https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js,200,OK,22594,905956,Medio,false,"Script,Comment"
+320,Proxy,Thu Dec 29 18:09:12 PET 2022,GET,https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.4/jspdf.debug.js,200,OK,33710,602210,Medio,false,Comment
+321,Proxy,Thu Dec 29 18:11:53 PET 2022,GET,http://localhost:45100/vercursos,304,Not Modified,176,0,,false,
+322,Proxy,Thu Dec 29 18:11:53 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,4,0,,false,
+323,Proxy,Thu Dec 29 18:11:53 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,9,0,,false,
+324,Proxy,Thu Dec 29 18:11:54 PET 2022,GET,http://localhost:45100/tabla/44,304,Not Modified,126,0,,false,
+325,Proxy,Thu Dec 29 18:11:55 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,9,0,,false,
+326,Proxy,Thu Dec 29 18:11:55 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,11,0,,false,
+327,Proxy,Thu Dec 29 18:11:55 PET 2022,GET,https://picsum.photos/300,302,Found,408,0,,false,
+328,Proxy,Thu Dec 29 18:11:55 PET 2022,GET,https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSEAkWwIpXM-gjYBIFDZuykcE=?alt=proto,200,OK,768,16,Bajo,false,
+332,Proxy,Thu Dec 29 18:12:37 PET 2022,GET,http://localhost:45100/vercursos,304,Not Modified,204,0,,false,
+333,Proxy,Thu Dec 29 18:12:38 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,8,0,,false,
+334,Proxy,Thu Dec 29 18:12:38 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,10,0,,false,
+335,Proxy,Thu Dec 29 18:12:39 PET 2022,GET,http://localhost:45100/vercalendario/44,200,OK,129,3227,Medio,false,"Script,Comment"
+336,Proxy,Thu Dec 29 18:12:40 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,10,0,,false,
+337,Proxy,Thu Dec 29 18:12:40 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,11,0,,false,
+338,Proxy,Thu Dec 29 18:12:40 PET 2022,GET,https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.4/jspdf.debug.js,200,OK,4610,602210,Medio,false,Comment
+339,Proxy,Thu Dec 29 18:12:40 PET 2022,GET,https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js,200,OK,12135,905956,Medio,false,"Script,Comment"
+340,Proxy,Thu Dec 29 18:12:56 PET 2022,GET,http://localhost:45100/44/verasistencias/2022-11-10?asistencias=2&faltas=0,200,OK,154,3879,Medio,false,"Script,Comment"
+343,Proxy,Thu Dec 29 18:12:56 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,8,0,,false,
+344,Proxy,Thu Dec 29 18:12:56 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,11,0,,false,
+345,Proxy,Thu Dec 29 18:12:57 PET 2022,GET,https://www.gstatic.com/charts/loader.js,200,OK,445,67015,Bajo,false,Comment
+348,Proxy,Thu Dec 29 18:12:57 PET 2022,GET,https://www.gstatic.com/charts/51/loader.js,200,OK,101,49299,Bajo,false,Comment
+350,Proxy,Thu Dec 29 18:12:57 PET 2022,GET,https://www.gstatic.com/charts/51/css/core/tooltip.css,200,OK,102,1524,Bajo,false,Comment
+353,Proxy,Thu Dec 29 18:12:57 PET 2022,GET,https://www.gstatic.com/charts/51/css/util/util.css,200,OK,1587,12720,Bajo,false,Comment
+355,Proxy,Thu Dec 29 18:12:58 PET 2022,GET,https://www.gstatic.com/charts/51/js/jsapi_compiled_graphics_module.js,200,OK,4309,24811,Bajo,false,Comment
+357,Proxy,Thu Dec 29 18:12:57 PET 2022,GET,https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js,200,OK,6232,269363,Medio,false,"Script,Comment"
+358,Proxy,Thu Dec 29 18:12:58 PET 2022,GET,https://www.gstatic.com/charts/51/js/jsapi_compiled_corechart_module.js,200,OK,6326,8077,Bajo,false,Comment
+359,Proxy,Thu Dec 29 18:12:58 PET 2022,GET,https://www.gstatic.com/charts/51/js/jsapi_compiled_ui_module.js,200,OK,6859,519614,Bajo,false,"Script,Comment"
+360,Proxy,Thu Dec 29 18:13:10 PET 2022,GET,http://localhost:45100/44/verasistencias/2022-11-10?asistencias=2&faltas=0,304,Not Modified,130,0,,false,
+361,Proxy,Thu Dec 29 18:13:11 PET 2022,GET,http://localhost:45100/stylesheets/style-side-bar.css,304,Not Modified,4,0,,false,
+362,Proxy,Thu Dec 29 18:13:11 PET 2022,GET,http://localhost:45100/stylesheets/style-table.css,304,Not Modified,13,0,,false,
+363,Proxy,Thu Dec 29 18:13:11 PET 2022,GET,https://www.gstatic.com/charts/51/loader.js,200,OK,875,49299,Bajo,false,Comment
+364,Proxy,Thu Dec 29 18:13:12 PET 2022,GET,https://www.gstatic.com/charts/51/css/util/util.css,200,OK,118,12720,,false,
+365,Proxy,Thu Dec 29 18:13:12 PET 2022,GET,https://www.gstatic.com/charts/51/css/core/tooltip.css,200,OK,406,1524,Bajo,false,Comment
+366,Proxy,Thu Dec 29 18:13:12 PET 2022,GET,https://www.gstatic.com/charts/51/js/jsapi_compiled_corechart_module.js,200,OK,504,8077,Bajo,false,Comment
+367,Proxy,Thu Dec 29 18:13:12 PET 2022,GET,https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js,200,OK,2540,269363,Medio,false,"Script,Comment"
+368,Proxy,Thu Dec 29 18:13:12 PET 2022,GET,https://www.gstatic.com/charts/51/js/jsapi_compiled_graphics_module.js,200,OK,5064,24811,Bajo,false,Comment
+369,Proxy,Thu Dec 29 18:13:12 PET 2022,GET,https://www.gstatic.com/charts/51/js/jsapi_compiled_ui_module.js,200,OK,7745,519614,Bajo,false,"Script,Comment"
